@@ -1,8 +1,8 @@
 {
   "title": "صابلي luxe",
   "images": [
-    "https://github.com/chamsohoua/recipe-data/blob/main/images/desert/chocosabli.webp",
-    "https://github.com/chamsohoua/recipe-data/blob/main/images/desert/chocosabli2.webp"
+    "https://raw.githubusercontent.com/chamsohoua/recipe-data/refs/heads/main/images/desert/chocosabli.webp",
+    "https://raw.githubusercontent.com/chamsohoua/recipe-data/refs/heads/main/images/desert/chocosabli2.webp"
   ],
   "temp": "160°",
   "time": "20-45 دقيقة",
