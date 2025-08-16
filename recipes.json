@@ -1,8 +1,8 @@
 {
   "title": "صابلي luxe",
   "images": [
-  "https://github.com/chamsohoua/recipe-data/blob/main/images/desert/chocosabli.webp",
-  "https://github.com/chamsohoua/recipe-data/blob/main/images/desert/chocosabli2.webp"
+  "https://github.com/chamsohoua/recipe-data/main/images/desert/chocosabli.webp",
+  "https://github.com/chamsohoua/recipe-data/main/images/desert/chocosabli2.webp"
 ],
   "temp": "160°",
   "time": "20-45 دقيقة",
@@ -30,7 +30,7 @@
 {
   "title": "باركات",
   "images": [
-    "https://github.com/chamsohoua/recipe-data/blob/main/images/desert/barkat.webp"
+    "https://github.com/chamsohoua/recipe-data/main/images/desert/barkat.webp"
   ],
   "temp": "150°",
   "time": "20-30 دقيقة",
@@ -67,8 +67,8 @@
 {
   "title": "بسبوسة",
   "images": [
-    "https://github.com/chamsohoua/recipe-data/blob/main/images/desert/%D8%A8%D8%B3%D8%A8%D9%88%D8%B3%D8%A92.webp",
-    "https://github.com/chamsohoua/recipe-data/blob/main/images/desert/%D8%A8%D8%B3%D8%A8%D9%88%D8%B3%D8%A9.webp"
+    "https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/بسبوسة.png",
+    "https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/بسبوسة2.png"
   ],
   "temp": "160°",
   "time": "20-45 دقيقة",
