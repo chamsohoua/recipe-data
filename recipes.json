@@ -1,4 +1,6 @@
-[
+{
+  "categories": {
+    "Sweeteners": [
   {
     "id": "recipe-1",
     "title": "صابلي luxe",
@@ -938,5 +940,9 @@
     "بالصحة والهناء"
   ]
 }
-
-]
+],
+    "Breakfast": [],
+    "Lunch": [],
+    "Dinner": []
+  }
+}
