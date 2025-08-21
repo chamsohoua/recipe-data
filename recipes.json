@@ -9,7 +9,7 @@
       "https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/chocosabli2.webp"
     ],
     "temp": "160°",
-    "time": "20-45 دقيقة",
+    "time": "45 دقيقة",
     "difficulty": "سهلة",
     "ingredients": [
       "250غ زبدة بحرارة الغرفة",
@@ -38,7 +38,7 @@
       "https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/barkat.webp"
     ],
     "temp": "150°",
-    "time": "20-30 دقيقة",
+    "time": "30 دقيقة",
     "difficulty": "متوسطة",
     "ingredients": [
       {
@@ -77,7 +77,7 @@
       "https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/%D8%A8%D8%B3%D8%A8%D9%88%D8%B3%D8%A9.webp"
     ],
     "temp": "160°",
-    "time": "20-45 دقيقة",
+    "time": "45 دقيقة",
     "difficulty": "سهلة",
     "ingredients": [
       {
@@ -120,7 +120,7 @@
     "https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/%D8%A8%D8%B1%D8%A7%D9%88%D9%86%D9%8A3.webp"
   ],
   "temp": "160°",
-  "time": "15-20 دقيقة",
+  "time": "20 دقيقة",
   "difficulty": "متوسطة",
   "ingredients": [
     {
@@ -156,7 +156,7 @@
     "https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/charak.webp"
   ],
   "temp": "140°",
-  "time": "20-30 دقيقة",
+  "time": "30 دقيقة",
   "difficulty": "سهلة",
   "ingredients": [
     {
@@ -202,7 +202,7 @@
   "title": "سيقار",
   "images": ["https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/Sigar.webp"],
   "temp": "140°",
-  "time": "20-50 دقيقة",
+  "time": "40 دقيقة",
   "difficulty": "متوسطة",
   "ingredients": [
     {
@@ -241,7 +241,7 @@
   "title": "قريبية",
   "images": ["https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/craibya.webp"],
   "temp": "160°",
-  "time": "20-30 دقيقة",
+  "time": "30 دقيقة",
   "difficulty": "سهلة",
   "ingredients": [
     {
@@ -269,7 +269,7 @@
   "title": "حلوة الفرشيطة",
   "images": [ "https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/%D9%81%D8%B1%D8%B4%D9%8A%D8%B7%D8%A9.webp" ,"https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/%D9%81%D8%B1%D8%B4%D9%8A%D8%B7%D8%A92.webp"],
   "temp": "160°",
-  "time": "20-45 دقيقة",
+  "time": "45 دقيقة",
   "difficulty": "متوسطة",
   "ingredients": [
     {
@@ -305,7 +305,7 @@
   "title": "حلوة القلب",
   "images": ["https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/heart.webp"],
   "temp": "140°",
-  "time": "20-120 دقيقة",
+  "time": "120 دقيقة",
   "difficulty": "صعبة",
   "ingredients": [
     {
@@ -357,7 +357,7 @@
   "title": "الجوزة",
   "images": ["https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/joz.webp", "https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/joz2.webp"],
   "temp": "160°",
-  "time": "20-45 دقيقة",
+  "time": "45 دقيقة",
   "difficulty": "سهلة",
   "ingredients": [
     {
@@ -399,7 +399,7 @@
   "title": "حلوة الكرز",
   "images": ["https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/karaz.webp", "https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/karaz2.webp"],
   "temp": "160°",
-  "time": "20-45 دقيقة",
+  "time": "45 دقيقة",
   "difficulty": "متوسطة",
   "ingredients": [
     {
@@ -443,7 +443,7 @@
   "title": "كعيكعات",
   "images": ["https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/kikat.webp","https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/kikat1.webp","https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/kikat2.webp"],
   "temp": "160°",
-  "time": "20-45 دقيقة",
+  "time": "45 دقيقة",
   "difficulty": "متوسطة",
   "ingredients": [
     {
@@ -495,7 +495,7 @@
   "title": "كروكي",
   "images": ["https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/kroki.webp"],
   "temp": "160°",
-  "time": "15-30 دقيقة",
+  "time": "30 دقيقة",
   "difficulty": "سهلة",
   "ingredients": [
     "3 بيضات",
@@ -520,7 +520,7 @@
   "title": "حلوة الليمون",
   "images": ["https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/lemon.webp"],
   "temp": "180°",
-  "time": "20-40 دقيقة",
+  "time": "40 دقيقة",
   "difficulty": "سهلة",
   "ingredients": [
     "ربع كأس زيت نباتيّ",
@@ -548,7 +548,7 @@
   "title": "ترت ليمون",
   "images": ["https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/%D8%AA%D8%B1%D8%AA%20%D9%84%D9%8A%D9%85%D9%88%D9%86.webp","https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/%D8%AA%D8%B1%D8%AA%20%D9%84%D9%8A%D9%85%D9%88%D9%86%203.webp","https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/%D8%AA%D8%B1%D8%AA%20%D9%84%D9%8A%D9%85%D9%88%D9%862.webp"],
   "temp": "160°",
-  "time": "20-45 دقيقة",
+  "time": "45 دقيقة",
   "difficulty": "متوسطة",
   "ingredients": [
     {
@@ -604,7 +604,7 @@
   "title": "مقروط كوشة",
   "images": ["https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/%D9%85%D9%82%D8%B1%D9%88%D8%B7.webp","https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/%D9%85%D9%82%D8%B1%D9%88%D8%B71.webp","https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/%D9%85%D9%82%D8%B1%D9%88%D8%B72.webp"],
   "temp": "160°",
-  "time": "20-45 دقيقة",
+  "time": "45 دقيقة",
   "difficulty": "متوسطة",
   "ingredients": [
     {
@@ -642,7 +642,7 @@
   "title": "مقروط",
   "images": ["https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/makrot.webp"],
   "temp": "150°",
-  "time": "20-30 دقيقة",
+  "time": "30 دقيقة",
   "difficulty": "ساهلة",
   "ingredients": [
     {
@@ -669,7 +669,7 @@
   "title": "مسكوتشو",
   "images": ["https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/maskotcha.webp"],
   "temp": "140°",
-  "time": "20-30 دقيقة",
+  "time": "30 دقيقة",
   "difficulty": "سهلة",
   "ingredients": [
     {
@@ -700,7 +700,7 @@
   "title": "مشوك",
   "images": ["https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/mchawak.webp"],
   "temp": "160°",
-  "time": "20-60 دقيقة",
+  "time": "60 دقيقة",
   "difficulty": "سهلة",
   "ingredients": [
     {
@@ -735,7 +735,7 @@
   "title": "رخامة",
   "images": ["https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/%D8%B1%D8%AE%D8%A7%D9%85%D8%A9.webp","https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/%D8%B1%D8%AE%D8%A7%D9%85%D8%A92.webp"],
   "temp": "160°",
-  "time": "20-45 دقيقة",
+  "time": "45 دقيقة",
   "difficulty": "متوسطة",
   "ingredients": [
     {
@@ -775,7 +775,7 @@
   "title": "صابلي",
   "images": ["https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/%D8%B5%D8%A7%D8%A8%D9%84%D9%8A.webp"],
   "temp": "140°",
-  "time": "20-30 دقيقة",
+  "time": "30 دقيقة",
   "difficulty": "سهلة",
   "ingredients": [
     {
@@ -813,7 +813,7 @@
   "title": "تارتولات",
   "images": ["https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/tartolat.webp","https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/tartolat1.webp","https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/tartoalt2.webp","https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/tartolat3.webp"],
   "temp": "160°",
-  "time": "20-45 دقيقة",
+  "time": "45 دقيقة",
   "difficulty": "متوسطة",
   "ingredients": [
     {
@@ -855,7 +855,7 @@
   "title": "بقلاوة تركية",
   "images": ["https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/turky.webp","https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/turky1.webp","https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/turky2.webp"],
   "temp": "160°",
-  "time": "20-45 دقيقة",
+  "time": "45 دقيقة",
   "difficulty": "متوسطة",
   "ingredients": [
     {
@@ -890,7 +890,7 @@
   "title": "اصباع العروسة",
   "images": ["https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/wife.webp","https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/wife2.webp"],
   "temp": "160°",
-  "time": "10-15 دقيقة",
+  "time": "15 دقيقة",
   "difficulty": "ساهلة",
   "ingredients": [
     {
