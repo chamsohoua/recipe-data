@@ -698,7 +698,7 @@
 {
   "id": "recipe-20",
   "title": "مشوك",
-  "images": ["https://github.com/chamsohoua/recipe-data/images/desert/mchawak.webp"],
+  "images": ["https://raw.githubusercontent.com/chamsohoua/recipe-data/main/images/desert/mchawak.webp"],
   "temp": "160°",
   "time": "20-60 دقيقة",
   "difficulty": "سهلة",
