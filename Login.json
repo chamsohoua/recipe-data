@@ -1,1 +1,16 @@
-[]
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Chamso",
+      "login": "ahmed.chams23@gmail.com",
+      "password": "9982b7770ce8df4be4aaa2734f41d5830557ac9c7f76cc6e32247779059f1341"
+    },
+    {
+      "id": "2",
+      "fullName": "Bochra",
+      "login": "0793343206",
+      "password": "d827c91997eabf245b088e074b3891e7758f2ad9a38eca3b67a1f9ee9d1dc1c3"
+    }
+  ]
+}
