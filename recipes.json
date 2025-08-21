@@ -201,7 +201,7 @@
   "id": "recipe-6",
   "title": "صابلي luxe",
 
-  "temperature": "160°",
+  "temp": "160°",
   "time": "20-45 دقيقة",
   "difficulty": "سهلة",
   "ingredients": [
@@ -940,7 +940,7 @@
     "بالصحة والهناء"
   ]
 }
-],
+    ],
     "Breakfast": [],
     "Lunch": [],
     "Dinner": []
