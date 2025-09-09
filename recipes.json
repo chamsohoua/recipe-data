@@ -943,27 +943,7 @@
           "اغليها في زيت على نار متوسطة",
           "رشو عليها شوية سكر ناعم او عسلوهم"
         ]
-      },
-      {
-        "id": "recipe-26",
-        "title": "hoboxa",
-        "category": "Sweeteners",
-        "images": [],
-        "temp": "obxaobax",
-        "time": "20",
-        "difficulty": "سهلة",
-        "ingredients": [
-          "hpha",
-          "boxa",
-          "aboxaboxq",
-          "boxaboxq"
-        ],
-        "steps": [
-          "boxao",
-          "bxoaboxa",
-          "boxaonxa"
-        ]
-      }
+      }    
     ],
     "Breakfast": [],
     "Momalh": [],
